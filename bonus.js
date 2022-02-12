@@ -28,6 +28,7 @@ function changeGame (game) {
 			showGames.push('happening');
 			showGames.push('minigame');
 			showGames.push('item');
+			showGames.push('coin');
 			break;
 		case 'mp7':
 		case 'mp8':
@@ -37,6 +38,7 @@ function changeGame (game) {
 			showGames.push('running');
 			showGames.push('shopping');
 			showGames.push('item');
+			showGames.push('coin');
 			break;
 		case 'mp9':
 			showGames.push('item');
